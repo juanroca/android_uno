@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="monospace"
-        android:text="Hola TEGO!!"
+        android:text="Hola TEGO CAMPEON!!"
         android:textColor="#512DA8"
         android:textSize="24sp"
         android:textStyle="bold|italic"
